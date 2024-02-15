@@ -1,0 +1,5 @@
+I am interested in taking CMSC320 because data science is extremely useful and 
+versatile. Data management and statistical analysis are vital skills in not just
+computer science backend work, but in any area of research. I hope to formally 
+learn about these topics and get an introduction to machine learning through 
+this course, as well as become familiar with using SQL and the pandas library. 
